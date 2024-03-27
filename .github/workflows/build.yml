@@ -1,21 +1,21 @@
 ---
-name: Build
+name: Build Hub
 
 on:
   pull_request:
     branches:
-      - main
+      - main menu
 
 jobs:
   build:
-    name: Build
+    name: Build HUb
     runs-on: ubuntu-latest
     permissions:
       contents: read
     steps:
       - uses: actions/checkout@v3
 
-      - name: Build
+      - name: Buildings
         uses: Consensys/docs-gha-2023/build@main
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: $$$$$${{ secrets.GITHUB_TOKEN }}
