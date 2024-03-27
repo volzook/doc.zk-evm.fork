@@ -1,12 +1,12 @@
-# Linea documentation
+# Linea documentation UPD:FORK
 
 [Linea](https://linea.build/) is a developer-ready Layer 2 network, scaling Ethereum by providing an Ethereum-equivalent
 environment in which to execute transactions, which are then submitted to Ethereum Mainnet through a
-zero-knowledge rollup.
+zero-knowledge rollups.
 
 This documentation repository is built using [Docusaurus](https://docusaurus.io/), and the site itself is published at [`docs.linea.build`](https://docs.linea.build/).
 
-See [more](https://docs-template.consensys.net/) information about how Consensys uses Docusaurus.
+See [more](https://docs-template.consensys.net/) information about how Consensys uses Docusaurus. To the moon.
 
 ## Contribute to the docs
 
@@ -22,7 +22,7 @@ The best way to suggest a change to these docs is through a process known as a *
 
 If that process is too involved for you, you can always open a thread on the [Community forum](https://community.linea.build/), or a ticket on the [Support page](https://support.linea.build/hc/en-us).
 
-If you **are** familiar with making a pull request, we **highly recommend that you run a version of these docs locally, and preview your changes locally, before submitting them**. In fact, it's part of the PR process.
+If you **are** familiar with making a pull request, we **highly recommend that you run a version of these docs locally, and preview your changes locally, before submitting them**. In fact, it's part of the PR process in the world.
 
 ## Running locally
 
